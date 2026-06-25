@@ -65,7 +65,7 @@ PrivLens ships in four editions. See `docs/PrivLens_Pricing_Comparison.pdf` for 
 |---------|-------|--------|---------|
 | **Community** | Free forever | 7 | `-company` required |
 | **Professional** | $249 / year | 30 | Signed `privlens.license` |
-| **Enterprise** | 1199 / year | 30+ | Signed `privlens.license` (`edition: enterprise`) |
+| **Enterprise** | $1199 / year | 30+ | Signed `privlens.license` (`edition: enterprise`) |
 | **MSP** | Contact us | 30+ | Signed `privlens.license` (`edition: msp`) |
 
 ### Scan scope by edition
