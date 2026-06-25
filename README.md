@@ -1,5 +1,7 @@
 # PrivLens
 
+**NOTE: Some antivirus engines may incorrectly flag the current release. We are actively working with vendors to resolve false positives**
+
 **See your Active Directory the way an attacker does.**
 
 PrivLens is a single-binary, read-only Active Directory security scanner for Windows. It finds high-impact misconfigurations that attackers routinely exploit — Kerberoastable service accounts, weak password policy, excessive Domain Admins, and more — and produces a clean, client-ready PDF report in seconds.
